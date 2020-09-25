@@ -40,7 +40,7 @@ def copy_tile(tile, anim_sheet, anim_key):
     anim_index = int(tile[anim_key])
     anim_index, anim_sheet = get_tile_sheet_indices(tile, anim_sheet, anim_index)
     anim_path = Path('SheetTiles/'+str(anim_sheet)+'/'+str(anim_index+1)+'.png')
-    target_path = Path('AnimTiles/'+str(anim_sheet)+'/'+str(anim_index+1)+'.png')
+    target_path = Path('AnimTiles/'+str(anim_sheet)+'/'+str(anim_index)+'.png')
     shutil.copy(anim_path, target_path)
 
 def copy_tiles(tiles):
