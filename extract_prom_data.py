@@ -1,6 +1,6 @@
 import json
 
-line_format =  '{"MapID": "", "X": "", "Y": "", "Ground": "", \
+line_format =  '{"MapID": "-", "X": "", "Y": "", "Ground": "", \
     "GroundAnim": "", "Mask": "", "MaskAnim": "", "Mask2": "", \
     "Mask2Anim": "", "Fringe": "", "FringeAnim": "", "Fringe2": "", \
     "Fringe2Anim": "", "Mask3": "", "Mask3Anim": "", "Fringe3": "", \
@@ -15,15 +15,12 @@ line_format =  '{"MapID": "", "X": "", "Y": "", "Ground": "", \
 
 def read_map_list():
     map_list = []
-    with open('prom_maps.txt', 'r') as oo:
+    with open('ImportStructure.json', 'r') as oo:
         maps = json.load(oo)
-#        for line in oo:
         for name, map in maps.items():
-            tile_list = []
             for map_row in map:
                 for map_piece in map_row:
                     map_list.append(map_piece)
-#            map_list.append(line.replace("\n", ""))
     return map_list
 
 def extract():
@@ -35,7 +32,7 @@ def extract():
 def write_all(messy_file, target_path):
     open(target_path,'w').close()
     with open(target_path,'a+') as target:
-        target.write('{\n')
+        target.write('[\n')
         extract_prom(messy_file, target)
         target.write(line_format)   # so the last comma gives something
         target.write('\n]')

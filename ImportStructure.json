@@ -1,0 +1,155 @@
+{
+
+"Sinreen": [
+["", "", "", "", "", "", "", "", "s199", "s1967", "s1966", "", "", "", "", "", "", "", ""],
+["", "", "s1982", "s1981", "s1398", "s1399", "s1400", "s917", "s1317", "s1321", "s1322", "s1323", "s1329", "s1341", "s1337", "", "", "", ""],
+["s1289", "s1978", "s1186", "s1185", "s1184", "s1037", "s944", "s919", "s1262", "s1325", "s1326", "s1327", "s1328", "s1342", "s1338", "", "", "", ""],
+["s1281", "s1979", "s1202", "s1195", "s1183", "s1182", "s1013", "s817", "s1261", "s1266", "s1973", "s1365", "s1364", "s1366", "s1339", "s166", "s169", "s172", ""],
+["s1296", "s1030", "s1003", "s1198", "s1197", "s1018", "s1014", "s801", "s1017", "s1260", "s1492", "s1974", "s1581", "s1582", "s164", "s167", "s170", "s173", ""],
+["s1674", "s1498", "s1147", "s1239", "s1180", "s1181", "s947", "s799", "s1016", "s1224", "s1226", "s1972", "s1971", "s1977", "s165", "s168", "s171", "s174", ""],
+["s1672", "s1757", "s1867", "s1231", "s1232", "s1200", "s943", "s246", "s1022", "s1254", "s1258", "s1257", "s1968", "s1970", "s175", "s176", "s177", "s178", ""],
+["s1367", "s299", "s1868", "s1230", "s1218", "s1285", "s1286", "s1015", "s1031", "s1250", "s1222", "s1256", "s179", "s1594", "s1593", "s1908", "s180", "s181", "s211"],
+["s484", "s1821", "s1964", "s1238", "s1217", "s1220", "s1225", "s1227", "s1228", "s1229", "s1251", "s1255", "s233", "s1596", "s1614", "s1907", "s1625", "s1623", "s212"],
+["s383", "s1679", "s1580", "s1568", "s1216", "s1210", "s1209", "s1866", "s1253", "s1252", "s1980", "s501", "s234", "s1617", "s1615", "s1906", "s1621", "s1620", "s213"],
+["s1935", "s1564", "s1344", "s340", "s218", "s1207", "s1306", "s1208", "s1976", "s1925", "s372", "s502", "s245", "s1622", "s1618", "s1904", "s1896", "s1894", "s214"],
+["s494", "s1565", "s1754", "s1282", "s535", "s515", "s1223", "s514", "s512", "s511", "s414", "s408", "s207", "s1633", "s1626", "s1903", "s1895", "", ""],
+["", "", "", "", "", "", "", "", "", "", "", "", "s208", "s1643", "s1636", "s1649", "s1652", "", ""],
+["", "", "", "", "", "", "", "", "", "", "", "", "s210", "s209", "s1658", "", "", "", ""]
+],
+
+"Sky Region": [
+["s8", "s11", "s79", "s81", "s83"],
+["s9", "s10", "s80", "s82", "s84"],
+["s85", "s86", "s87", "s88", "s90"],
+["s91", "s92", "s93", "s94", "s97"],
+["s98", "s99", "s100", "s101", "s102"],
+["s103", "s104", "s105", "s106", "s107"]
+],
+
+"Iciria": [
+["s1732", "s1736", "s1591", "s21", "s22", "s23", "s1796"],
+["s1959", "s1965", "s1586", "s1587", "s1588", "s1846", "s7"],
+["s1538", "s1537", "s1536", "s1752", "s1639", "s1847", "s1848"],
+["s1738", "s1739", "s1743", "s1746", "s1747", "s1872", "s1870"],
+["s1879", "s1731", "s1733", "s1533", "s1642", "s1641", "s1509"],
+["s1877", "s1878", "s1523", "s1391", "s1991", "s1640", "s1909"],
+["s1874", "s1532", "s1531", "s1530", "s921", "s198", "s200"]
+],
+
+
+"Singano": [
+["s132", "s133", "s136", "s137", "s138"],
+["s139", "s140", "s141", "s142", "s143"],
+["s144", "s145", "s146", "s147", "s148"],
+["s149", "s150", "s151", "s152", "s153"],
+["s154", "s155", "s156", "s157", "s158"]
+],
+
+"Fortis Highlands, Snow Spires": [
+["s71"],
+["s1506"]
+],
+
+"Valtheos, Stygian Islet": [["s688"]],
+
+"Arialia Village": [
+["s647", "s655"],
+["s632", "s634"]
+],
+
+"Valtheos, Egg Haven": [["s861"]],
+
+"Valtheos, Mt. Tylynthos": [
+["s316", "s315"],
+["s313", "s314"]
+],
+
+"Valtheos City": [
+["s1234", "s1236"],
+["s1235", "s1237"]
+],
+
+  "Fortis House": [["s66"]],
+  "Fortis, Small Passage": [["s39"]],
+  "Fortis, Cave": [["s37"]],
+  "Fortis, Sandy Tunnel": [["s29"]],
+  "Fortis, Veles Tunnel": [["s187"]],
+  "Fortis, Rocky Depths Entrance": [["s33"]],
+  "Fortis, Underground Village": [["s25"]],
+  "Fortis, Applepie Restaurant": [["s42"]],
+  "Fortis, Spring Park, Maria's Teahouse": [["s1933"]],
+  "Fortis, Moonstone Cave, Secret Room": [["s78"]],
+  "Fortis, Moonstone Cave, Passage": [["s76"]],
+  "Fortis, Spring Park Maze Endroom": [["s118"]],
+  "Fortis, Volcanic Cemetery": [["s26"]],
+  "Fortis, Clay Cave Entrance": [["s43"]],
+  "Fortis, Ancient Shrine 1F": [["s182"]],
+  "Fortis, Ancient Shrine 2F": [["s192"]],
+  "Fortis, Ancient Shrine End Room": [["s193"]],
+  "Fortis, Shrouded Woods Mid Room": [["s129"]],
+  "Fortis, Shrouded Woods End Room": [["s134"]],
+  "Fortis, Melanie's Holiday Cottage": [["s67"]],
+  "Fortis, House": [["s69"]],
+  "Fortis, Abandoned Bunker": [["s74"]],
+  "Fortis, Little Burrow Endroom": [["s127"]],
+  "Fortis, Gregor's House": [["s202"]],
+  "Fortis, Lush Room Endroom": [["s119"]],
+  "Fortis, Tiny Hilltop": [["s293"]],
+  "Fortis Highlands, Bar": [["s75"]],
+  "Fortis Highlands, Inn": [["s130"]],
+  "Fortis Temple Entrance": [["s77"]],
+  "Fortis, Blutus Village, Keiryu's Pool": [["s262"]],
+  "Fortis, Blutus Village, Lapras Ferry": [["s203"]],
+  "Fortis, Blutus Village, Chimecho's Assembly": [["s215"]],
+  "Fortis, Blutus Village, Inn": [["s790"]],
+  "Fortis, Blutus Village house": [["s72"]],
+  "Fortis, Blutus Village, Housing Center": [["s1574"]],
+  "Fortis, Blutus Village Tyllidia family's house": [["s593"]],
+  "Fortis Blutus Village, Shopping Market": [["s247"]],
+  "Fortis, Floral Village House": [["s62"]],
+  "Fortis, Floral Village Mayor's House": [["s64"]],
+  "Fortis Village Inn": [["s412"]],
+  "Fortis Village Festival Cafe": [["s1041"]],
+  "Fortis Village Housing Center": [["s1503"]],
+  "Fortis Village Marowak's Dojo": [["s50"]],
+  "Fortis Village Marowak's Dojo Luminous Chamber": [["s194"]],
+  "Fortis Village Arena": [["s660"]],
+  "Fortis Village, Capture the Flag Lobby": [["s793"]],
+  "Fortis Village, Under the Tree": [["s1141"]],
+  "Desert Region Inn": [["s1802"]],
+  "Rova Town Housing Center": [["s1269"]],
+  "The Unknown Path": [["s1"]],
+  "Eroding Ravine F6": [["s3"]],
+  "Ravine Tunnel": [["s4"]],
+  "Eroding Ravine F1": [["s5"]],
+  "Celestial Village": [["s12"]],
+  "Valtheos, Blue Base Camp": [["s222"]],
+  "Valtheos, Aralia Village, Sero's House": [["s619"]],
+  "Valtheos, Aralia Village, Catharina's Bakery": [["s229"]],
+  "Valtheos, Aralia Village, Catharina's House": [["s230"]],
+  "Valtheos, Aralia Village, Town Hall": [["s644"]],
+  "Valtheos, Aralia Village, Mila's House": [["s645"]],
+  "Valtheos, Aralia Village, Myro's House": [["s643"]],
+  "Valtheos, Aralia Village, Reno's House": [["s641"]],
+  "Valtheos, Aralia Village, Chenina's House": [["s1021"]],
+  "Jail": [["s666"]],
+  "Valtheos City Jail": [["s287"]],
+  "Valtheos City Mayor Davro's House": [["s485"]],
+  "Valtheos City,  Red Base": [["s387"]],
+  "Valtheos City, Blue Base": [["s393"]],
+  "Valtheos City, Dandel's Flowershop": [["s722"]],
+  "Valtheos City, Aqua Apartments": [["s723"]],
+  "Valtheos City, Pirate's Storage": [["s721"]],
+  "Valtheos City, The Little Wishiwashi": [["s730"]],
+  "Valtheos City, La Place F1": [["s720"]],
+  "Valtheos City, La Place B1": [["s220"]],
+  "Valtheos City, La Place F2": [["s221"]],
+  "Valtheos City, La Place F3": [["s225"]],
+  "Valtheos City, Housing Center F1": [["s478"]],
+  "Valtheos City, Housing Center F2": [["s590"]],
+  "Valtheos City, Oralea's House": [["s482"]],
+  "Valtheos City, Colosseum": [["s219"]],
+  "Valtheos City, Veronica's Buffet": [["s392"]],
+  "Valtheos City, Overgrown Tower": [["s373"]]
+
+}
