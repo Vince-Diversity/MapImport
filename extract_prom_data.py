@@ -15,7 +15,8 @@ line_format =  '{"MapID": "-", "X": "", "Y": "", "Ground": "", \
 
 def read_map_list():
     map_list = []
-    with open('ImportStructure.json', 'r') as oo:
+    with open('ImportRegions.json', 'r') as oo:
+#    with open('ImportPlaces.json', 'r') as oo:
         maps = json.load(oo)
         for name, map in maps.items():
             for map_row in map:
@@ -24,8 +25,8 @@ def read_map_list():
     return map_list
 
 def extract():
-    prom_path = 'prom_data.json'
-    with open('good_map_dicts.json','r') as messy_file:
+    prom_path = 'imported.json'
+    with open('better_map_tiles.json','r') as messy_file:
         write_all(messy_file, prom_path)
 
 # only when last line is part of map list does this work
